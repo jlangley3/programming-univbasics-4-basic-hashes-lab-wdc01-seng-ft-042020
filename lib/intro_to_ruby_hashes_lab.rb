@@ -14,7 +14,7 @@ end
 
 def pioneer
  pioneer = {
-  :name => "Grass Hopper" 
+  :name => "Grace Hopper" 
  }
  pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
@@ -22,7 +22,7 @@ end
 
 def id_hash_generator(number)
   id_hash_generator = {
-    :Bank => number
+    :id => number
   }
    id_hash_generator
   # return a hash with a key :id assigned to the provided number
